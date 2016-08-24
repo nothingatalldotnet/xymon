@@ -12,7 +12,7 @@ use LWP::Simple;
 
 my $BBHOME      = "/usr/lib/xymon/client";
 my $BB          = "/usr/lib/xymon/client/bin/xymon";
-my $BBDISP      = "178.250.53.197";
+my $BBDISP      = "_SOME_IP_";
 my $MACHINE     = "_SOME_HOSTNAME_";
 my $COLOR       = "clear";
 my $MSG         = "";
