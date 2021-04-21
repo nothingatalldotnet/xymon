@@ -33,7 +33,7 @@ Best Practices: ${PS_BEST}
 SEO: ${PS_SEO}
 PWA: ${PS_PWA}"
 
-                        $XYMON $XYMSRV "status $MACHINECOMMAS.$COLUMN $COLOR `date`
+                        $XYMON $XYMSRV "status+1w $MACHINECOMMAS.$COLUMN $COLOR `date`
 
 ${MSG}"
                 fi
